@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/simple-giphy-finder/static/js/main.766d0ae7.js",
+    "static/js/787.0b2b080b.chunk.js": "/simple-giphy-finder/static/js/787.0b2b080b.chunk.js",
+    "index.html": "/simple-giphy-finder/index.html",
+    "main.766d0ae7.js.map": "/simple-giphy-finder/static/js/main.766d0ae7.js.map",
+    "787.0b2b080b.chunk.js.map": "/simple-giphy-finder/static/js/787.0b2b080b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.766d0ae7.js"
+  ]
+}
